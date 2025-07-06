@@ -47,7 +47,7 @@ Every component, circuit connection, and line of code is **clearly explained** f
 
 ## 📺 Watch the Full Video Tutorial
 
-▶️ **YouTube Video**: [Click here to watch the full tutorial](https://your-youtube-video-link)
+▶️ **YouTube Video**: comming soon !! [Click here to watch the full tutorial](https://your-youtube-video-link)
 
 Includes:
 - Live demo of working project
