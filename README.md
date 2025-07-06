@@ -32,7 +32,7 @@ Every component, circuit connection, and line of code is **clearly explained** f
 |------|-------------|
 | `water_level_code.ino` | Arduino sketch (code) |
 | In ppt file | Complete circuit connection |
-| `water_level_setup.jpg` | Image of full working setup |
+| `water_level_setup.jpeg` | Image of full working setup |
 | `presentation.pptx` | Slide deck explaining components, code, circuit & demo |
 
 ---
