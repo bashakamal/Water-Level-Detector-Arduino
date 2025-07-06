@@ -39,7 +39,7 @@ Every component, circuit connection, and line of code is **clearly explained** f
 
 ## 🖼️ Project Setup
 
-![Project Setup](water_level_setup.jpg)
+![Project Setup](water_level_setup.jpeg)
 
 *Image: Full setup showing Arduino connected to ultrasonic sensor, LED and water container.*
 
